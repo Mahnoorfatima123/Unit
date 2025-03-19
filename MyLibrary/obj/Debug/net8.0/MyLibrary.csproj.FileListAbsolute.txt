@@ -1,0 +1,11 @@
+/Users/hussainkhawaja/XunitExample/MyLibrary/bin/Debug/net8.0/MyLibrary.deps.json
+/Users/hussainkhawaja/XunitExample/MyLibrary/bin/Debug/net8.0/MyLibrary.dll
+/Users/hussainkhawaja/XunitExample/MyLibrary/bin/Debug/net8.0/MyLibrary.pdb
+/Users/hussainkhawaja/XunitExample/MyLibrary/obj/Debug/net8.0/MyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hussainkhawaja/XunitExample/MyLibrary/obj/Debug/net8.0/MyLibrary.AssemblyInfoInputs.cache
+/Users/hussainkhawaja/XunitExample/MyLibrary/obj/Debug/net8.0/MyLibrary.AssemblyInfo.cs
+/Users/hussainkhawaja/XunitExample/MyLibrary/obj/Debug/net8.0/MyLibrary.csproj.CoreCompileInputs.cache
+/Users/hussainkhawaja/XunitExample/MyLibrary/obj/Debug/net8.0/MyLibrary.dll
+/Users/hussainkhawaja/XunitExample/MyLibrary/obj/Debug/net8.0/refint/MyLibrary.dll
+/Users/hussainkhawaja/XunitExample/MyLibrary/obj/Debug/net8.0/MyLibrary.pdb
+/Users/hussainkhawaja/XunitExample/MyLibrary/obj/Debug/net8.0/ref/MyLibrary.dll
